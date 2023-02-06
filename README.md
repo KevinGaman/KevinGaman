@@ -1,6 +1,10 @@
+## About me 👨‍🎓
+
 - 👋 Hi, I’m @KevinGaman.
-- 👀 I’m interested in Computer Vision, AI, Neurotechnology or any medicine application for technology.
-- 🌱 I’m currently learning Digital Image Processing, front-end web development, Fundamentals of Mobile Robotics and french language .
+- 👀 I’m interested in Microelectronics, Neurocomputing and AI.
+- 🌱 I’m currently on the MSc. in Electronic Engineering program in the Universidad Técnica Federico Santa María, Chile.
+
+This repository will be used for personal projects. For the academics projects I have this [repository](https://github.com/KevinPizarro).
 
 <!--- 
 - 📫 Reach me on my email kevinpizarroaguirre@gmail.com
